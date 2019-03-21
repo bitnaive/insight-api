@@ -41,7 +41,8 @@
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
     "request": "^2.83.0",
-    "@ravendevkit/ravencore-lib": "bitnaive/ravencore-lib"
+    "@ravendevkit/ravencore-lib": "bitnaive/ravencore-lib",
+    "ravencore-message": "RavenDevKit/ravencore-message"
   },
   "peerDependencies": {},
   "devDependencies": {
